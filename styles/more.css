@@ -9,15 +9,15 @@ body{
 
 @font-face {
     font-family: robotoR;
-    src: url(/font/Roboto-Regular.ttf);
+    src: url(../font/Roboto-Regular.ttf);
 }
 @font-face {
     font-family: robotoB;
-    src: url(/font/Roboto-Bold.ttf);
+    src: url(../font/Roboto-Bold.ttf);
 }
 @font-face {
     font-family: robotoM;
-    src: url(/font/Roboto-Medium.ttf);
+    src: url(../font/Roboto-Medium.ttf);
 }
 
 .top-cnt{
